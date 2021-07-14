@@ -3,8 +3,8 @@ var CTX;
 var CONFIG = {
     "animation_timing_ms": 100,
     "none_color": "#333333",
-    "grid_height": 12,
-    "grid_length": 30,
+    "grid_height": 8,
+    "grid_length": 32,
     "led_size": 20,
     "led_spacing": 17
 }
